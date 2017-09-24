@@ -38,7 +38,7 @@ public class JUnit {
     }
 
     @Test
-    public void hello() { fail();}
+    
     public void isTemperatureInNormalValues(){}
     public void isTheHTTPStautusOK(){}
     public void isTheFormatJSON(){}
@@ -46,5 +46,6 @@ public class JUnit {
     public void isTheLowestReallyTheLowestTemp(){}
     public void isTheHighestReallyTheHighestTemp(){}
     public void isinfoGivenForThreeDaysOnly(){}
+    
     
 }
